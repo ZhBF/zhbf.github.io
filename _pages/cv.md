@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D candidate in Intelligent Systems, Nagoya University, Present
+* M.S. in Artificial Intelligence, Institute of Automation, Chinese Academy of Sciences, 2025
+* B.S. in Automation, Tianjin University, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2026: Multi-Agent Reinforcement Learning with State-Only Demonstration
+  * Nagoya University, Fujii Lab
+  * Supervisor: Prof. Keisuke Fujii
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2024: Multi-Agent Reinforcement Learning for Decision-Making in Team Games
+  * Institute of Automation, Chinese Academy of Sciences
+  * Supervisor: Prof. Yang Gao
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Autumn 2023: Evolution of Rule-Based Decision-Making Models Based on Self-Play with League Training
+  * Institute of Automation, Chinese Academy of Sciences
+  * Supervisor: Prof. Yang Gao
 
 Publications
 ======
@@ -47,18 +35,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
