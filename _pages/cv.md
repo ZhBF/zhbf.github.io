@@ -29,6 +29,10 @@ Research experience
   * Institute of Automation, Chinese Academy of Sciences
   * Supervisor: Prof. Yang Gao
 
+* Spring 2022: Gait Generation for the Multi-legged Robot with Injured Legs
+  * Tianjin University
+  * Supervisor: Prof. Ming Zeng
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
